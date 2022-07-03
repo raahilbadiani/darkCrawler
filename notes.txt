@@ -1,0 +1,5 @@
+use url manipulation functions that are given by default
+handle if url if not starting with http/https
+handle file download
+handle after crashing to resume where it stopped
+handle ? in urls
